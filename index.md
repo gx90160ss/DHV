@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+https://apps.apple.com/tw/app/桌遊小幫手/id1437595603
 
-You can use the [editor on GitHub](https://github.com/gx90160ss/DHV/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+桌遊小幫手 APP (以下簡稱本APP)重視使用者隱私權保障，對於個人資料保護的尊重，在您開始使用本服務所提 供的各項服務時，即表示您已閱讀、瞭解並已同意本APP之服務。當您使用或繼續使用本APP時，即推定您已閱讀、 瞭解並同意接受本約定之所有內容及其後修改變更。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. 個人資料蒐集目的：
+本APP是專為桌遊玩家設計的輔助APP, 收集您使用APP時之定位,手機狀態等功能以便提供更好的軟體使用體驗，以及更精準的廣告投放。除此之外,不做其他用途。
 
-### Markdown
+2. 個人資料蒐集、利用 的期間及範圍：
+(1) 期間：自您開始使用本APP起，直至您不願意使用本APP所提供支服務為止。
+(2) 對象：本APP使用者以及業務合作夥伴。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. 您可主張的權利行使種類及方式：
+以電郵方式向個人資訊諮詢窗口： BoardGameHelper@gmail.com連絡提出。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gx90160ss/DHV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4.法令之遵守、隱私權政策之修訂
+為了更確實執行個人資訊的保護，本APP得隨時修訂隱私權政策。
